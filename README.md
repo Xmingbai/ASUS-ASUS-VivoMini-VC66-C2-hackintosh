@@ -1,6 +1,6 @@
 # ASUS-ASUS-VivoMini-VC66-C2-hackintosh 黑苹果 更新中
 
-适用于ASUS VivoMini VC66-C2机型 ，CPU可选i5-10400、i5-10500、i7-10700等
+适用于ASUS VivoMini VC66-C2机型黑苹果 ，CPU可选i5-10400、i5-10500、i7-10700等
 
 淘宝地址：https://item.taobao.com/item.htm?spm=a1z10.5-c-s.0.0.5fa75c3eSkwvvF&id=731037758192
 
