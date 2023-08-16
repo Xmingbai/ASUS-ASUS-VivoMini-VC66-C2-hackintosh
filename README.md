@@ -6,7 +6,7 @@
 
 # OC引导下载看右边界面的Releases
 
-#BIOS设置
+BIOS设置
 
 操作系统类型： Windows UEFI 模式改为 其他操作系统 （必选项）
 
