@@ -8,7 +8,7 @@
 
 #BIOS设置
 
-操作系统类型： windows UEFI 模式改为 其他操作系统 （必选项）
+操作系统类型： Windows UEFI 模式改为 其他操作系统 （必选项）
 
 serial port 改为 关闭   （可选项）
 
