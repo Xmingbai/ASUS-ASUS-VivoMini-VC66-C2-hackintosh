@@ -4,6 +4,8 @@
 
 淘宝地址：https://item.taobao.com/item.htm?spm=a1z10.5-c-s.0.0.5fa75c3eSkwvvF&id=731037758192
 
+主机官网地址：https://www.asus.com/hk-en/displays-desktops/mini-pcs/vivomini/vivomini-vc66-c2/
+
 # OC引导下载看右边界面的Releases
 
 BIOS设置
